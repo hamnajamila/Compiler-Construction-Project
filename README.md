@@ -24,30 +24,6 @@ A Python script that retrieves real-time weather details such as temperature, wi
 
 ### **Usage**
 
-1. Install dependencies\:Weather and News Fetching using Web Scraping
-
-   This repository contains two Python scripts that fetch real-time weather data and the latest news headlines using web scraping techniques and regex-based parsing.
-
-   🚀 Project 1: Weather Data Fetching
-
-   A Python script that retrieves real-time weather details such as temperature, wind speed, and humidity for any city. It scrapes data from an online weather service and extracts meaningful insights using regular expressions.
-
-   Features
-
-   ✅ Fetches live weather updates for any city✅ Extracts key details using regex-based parsing✅ Handles HTTP requests and errors gracefully✅ Provides a clean and formatted weather summary
-
-   Technologies Used
-
-   Python
-
-   Web Scraping
-
-   Regular Expressions (Regex)
-
-   Requests Library
-
-   Usage
-
    Install dependencies:
    ```bash
    pip install requests
