@@ -34,10 +34,7 @@ A Python script that retrieves real-time weather details such as temperature, wi
 
    Features
 
-   ✅ Fetches live weather updates for any city
-   ✅ Extracts key details using regex-based parsing
-   ✅ Handles HTTP requests and errors gracefully
-   ✅ Provides a clean and formatted weather summary
+   ✅ Fetches live weather updates for any city✅ Extracts key details using regex-based parsing✅ Handles HTTP requests and errors gracefully✅ Provides a clean and formatted weather summary
 
    Technologies Used
 
@@ -55,7 +52,7 @@ A Python script that retrieves real-time weather details such as temperature, wi
    ```bash
    pip install requests
    ```
-3. Run the script:
+2. Run the script:
    ```python
    weather_fetch("Islamabad")  # Replace with any city name
    ```
